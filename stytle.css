@@ -1,0 +1,12 @@
+body{
+	background: yellow;
+}
+#container{
+	background: white;
+	width: 500px;
+	padding: 50px;
+	margin: 50px auto;
+}
+    a{
+	padding-right: 10px;
+     }
